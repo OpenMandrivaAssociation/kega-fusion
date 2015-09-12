@@ -4,7 +4,7 @@
 
 Name:		%{name}
 Version:	%{version}
-Release:	2
+Release:	3
 Summary:	Sega Genesis/32X/Master System/CD/SG-1000/Pico Emulator
 Group:		Emulators
 License:	Freeware
