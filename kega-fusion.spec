@@ -2,6 +2,8 @@
 %define		name		kega-fusion
 %define		version		363x
 
+%define		debug_package	%{nil}
+
 Name:		%{name}
 Version:	%{version}
 Release:	3
