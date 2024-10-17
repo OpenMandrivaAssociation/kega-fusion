@@ -10,7 +10,7 @@ Release:	3
 Summary:	Sega Genesis/32X/Master System/CD/SG-1000/Pico Emulator
 Group:		Emulators
 License:	Freeware
-URL:		http://www.eidolons-inn.net/tiki-index.php?page=Kega
+URL:		https://www.eidolons-inn.net/tiki-index.php?page=Kega
 Source:		%{oname}%{version}.tar.gz
 Source1:	%{oname}.png
 BuildRequires:	imagemagick
